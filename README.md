@@ -36,6 +36,7 @@ Time spent: 10 hours spent in total
 	- [ ] Custom IDS alert (example: email sent when footprinting detected)
 	- [ ] Custom incident response (example: IDS alert triggers added firewall rule to block an IP)
 - Demonstration
+![JSON](https://github.com/timashana/Wk9-Honeypot/blob/master/session.json)
   
 	- [ ] Additional attack demos/writeups
 	- [x] Captured malicious payload (see above)
